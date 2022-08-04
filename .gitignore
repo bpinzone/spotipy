@@ -56,3 +56,5 @@ docs/_build/
 
 .*
 archive
+
+client_secret.txt
